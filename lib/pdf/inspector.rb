@@ -5,6 +5,7 @@ require "pdf/inspector/xobject"
 require "pdf/inspector/extgstate"
 require "pdf/inspector/graphics"
 require "pdf/inspector/page"
+require "pdf/inspector/generic"
 
 module PDF
   class Inspector
